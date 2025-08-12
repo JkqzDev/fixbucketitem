@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "build-plugin": "@php -dphar.readonly=0 build-plugin.php"
+  },
+  "require-dev": {
+    "pocketmine/pocketmine-mp": ">=5.32.0"
+  }
+}
