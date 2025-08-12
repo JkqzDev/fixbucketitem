@@ -1,1 +1,11 @@
-# fixbucketitem
+🪣 FixBucketItem
+FixBucketItem is a PocketMine-MP plugin that fixes a common bug in recent versions, where water and lava buckets cannot be placed correctly when using Shift + Right Click (while sneaking).
+
+With this plugin, the original behavior is restored: you can place liquids without issues while sneaking, preserving the intended Minecraft gameplay experience.
+
+✨ Features
+- Fixes water and lava placement when sneaking.
+- Supports both empty and filled water/lava buckets.
+- Zero performance impact on your server.
+- Plug-and-play: just drop it into your plugins/ folder.
+
